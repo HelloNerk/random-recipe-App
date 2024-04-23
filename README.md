@@ -14,5 +14,10 @@ Esta es una aplicación web que permite a los usuarios buscar recetas de cocina 
 - TypeScript: Lenguaje de programación.
 - HTML y CSS: Tecnologías estándar para desarrollo web.
 
+## Creditos
+Este proyecto utiliza datos de [TheMealDB API](https://www.themealdb.com/), una base de datos abierta y gratuita de recetas de comida de todo el mundo.
+
 ## Autor
 Joseph Alexis Huamani Mandujano U20221A133
+
+
